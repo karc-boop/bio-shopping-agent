@@ -10,6 +10,8 @@ An AI-powered procurement assistant for university research labs, built with Cla
 - **Draft order workflow** — agent never auto-places orders; every order requires explicit approval
 - **Slack-native** — works via DM or @mention in any channel
 
+![BioShop comparing two Matrigel products with Scientific Score](assets/fig_comparison.png)
+
 ## Project Structure
 
 ```
